@@ -24,8 +24,12 @@ Serão realizados 2 exercícios, sendo 3 de nível Difícil e um de nível médi
 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Difícil | [Resolução](resolucao188.c++) |
 
 ---
+### 312. Burst Balloon
+Dado um vetor de balões com valores é necessário escolher a melhor ordem para poder estourar os mesmos, maximixando o total de moedas, considerando que o ganho por estouro depende dos vizinhos.
+Em vez de pensar qual balão estourar primeiro, pensar em qual balão será o último a ser estourado em um intervalo.
+Programação Dinâmica em intervalos.
 
-[312. Burst Balloon Accepted](/imagens/312accepted.png)
+![312. Burst Balloon Accepted](/imagens/312accepted.png)
 
 
 ---
