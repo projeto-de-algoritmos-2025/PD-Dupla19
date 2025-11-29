@@ -22,5 +22,13 @@ public:
             dp[j][0] = 0;
             dp[j][1] = -prices[0];
         }
+
+        // Preenchimento da PD
+        for (int i = 1; i < n; i++) {
+            for (int j = 1; j <= k; j++) {
+                dp[j][0] = max(dp[j][0], dp[j][1] + prices[i]);     // vender
+                dp[j][1] = max(dp[j][1], dp[j - 1][0] - prices[i]); // comprar
+            }
+        }
     }
 };
