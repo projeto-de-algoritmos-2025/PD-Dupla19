@@ -13,6 +13,13 @@ public:
             for (int left = 0; left + length < n; left++) {
                 int right = left + length;
             }
+                // escolhe o último balão a ser estourado
+                for (int i = left + 1; i < right; i++) {
+                    int coins = dp[left][i] + dp[i][right]
+                        + nums[left] * nums[i] * nums[right];
+
+
+                }
         }
 
     }
