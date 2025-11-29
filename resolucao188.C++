@@ -11,6 +11,7 @@ public:
                 if (prices[i] > prices[i - 1])
                     profit += prices[i] - prices[i - 1];
             }
+            return profit;
         }
 
         // dp[j][0] = max lucro com j transações e sem ação

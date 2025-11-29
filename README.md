@@ -31,6 +31,15 @@ Programação Dinâmica em intervalos.
 
 ![312. Burst Balloon Accepted](/imagens/312accepted.png)
 
+---
+
+### 312. Burst Balloon
+Tendo um preço de uma ação ao longo dos dias e um número máximo k de transações, precisamos encontrar o maior lucro possível, lembrando que só pode ter uma ação por vez.
+Programação Dinâmica de Estados.
+
+
+![188. Best Time to Buy and Sell Stock IV](/imagens/188accepted.png)
+
 
 ---
 ## Vídeo 
