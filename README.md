@@ -33,7 +33,7 @@ Programação Dinâmica em intervalos.
 
 ---
 
-### 312. Burst Balloon
+### 887. Super Egg Drop
 Tendo um preço de uma ação ao longo dos dias e um número máximo k de transações, precisamos encontrar o maior lucro possível, lembrando que só pode ter uma ação por vez.
 Programação Dinâmica de Estados.
 
