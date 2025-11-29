@@ -23,5 +23,11 @@ Serão realizados 2 exercícios, sendo 3 de nível Difícil e um de nível médi
 |[887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/) | Difícil | [Resolução](resolucao630.C++) |
 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Difícil | [Resolução](resolucao188.c++) |
 
+---
+
+[312. Burst Balloon Accepted](/imagens/312accepted.png)
+
+
+---
 ## Vídeo 
 [Explicação da resolução das questões](https://youtu.be/KC-k_TAhoSc)a
