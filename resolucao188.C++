@@ -12,5 +12,15 @@ public:
                     profit += prices[i] - prices[i - 1];
             }
         }
+
+        // dp[j][0] = max lucro com j transações e sem ação
+        // dp[j][1] = max lucro com j transações e com ação
+        vector<vector<int>> dp(k + 1, vector<int>(2, 0));
+
+        // Inicialização
+        for (int j = 0; j <= k; j++) {
+            dp[j][0] = 0;
+            dp[j][1] = -prices[0];
+        }
     }
 };
