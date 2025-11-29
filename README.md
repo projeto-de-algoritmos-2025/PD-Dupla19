@@ -33,14 +33,15 @@ Programação Dinâmica em intervalos.
 
 ---
 
-### 887. Super Egg Drop
+### 188. Best Time to Buy and Sell Stock IV
 Tendo um preço de uma ação ao longo dos dias e um número máximo k de transações, precisamos encontrar o maior lucro possível, lembrando que só pode ter uma ação por vez.
 Programação Dinâmica de Estados.
 
 
 ![188. Best Time to Buy and Sell Stock IV](/imagens/188accepted.png)
 
-
+---
+### 887. Super Egg Drop
 ---
 ## Vídeo 
 [Explicação da resolução das questões](https://youtu.be/KC-k_TAhoSc)a
