@@ -47,4 +47,4 @@ Tendo um prédio com n andares e k ovos, determinar o menor número de lançamen
 ![887. Super Egg Drop](/imagens/887accepted.png)
 ---
 ## Vídeo 
-[Explicação da resolução das questões](https://youtu.be/KC-k_TAhoSc)a
+[Explicação da resolução das questões](https://youtu.be/KC-k_TAhc)
