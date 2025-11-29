@@ -30,5 +30,6 @@ public:
                 dp[j][1] = max(dp[j][1], dp[j - 1][0] - prices[i]); // comprar
             }
         }
+        return dp[k][0];
     }
 };
