@@ -42,9 +42,9 @@ Programação Dinâmica de Estados.
 
 ---
 ### 887. Super Egg Drop
+Tendo um prédio com n andares e k ovos, determinar o menor número de lançamentos necessários no pior caso para descobrir com certeza o andar crítico f onde os ovos passam a quebrar.
 
-
-![887. Super Egg Drop](/imagens/188accepted.png)
+![887. Super Egg Drop](/imagens/887accepted.png)
 ---
 ## Vídeo 
 [Explicação da resolução das questões](https://youtu.be/KC-k_TAhoSc)a
