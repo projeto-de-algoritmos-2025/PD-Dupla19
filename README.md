@@ -42,6 +42,9 @@ Programação Dinâmica de Estados.
 
 ---
 ### 887. Super Egg Drop
+
+
+![887. Super Egg Drop](/imagens/188accepted.png)
 ---
 ## Vídeo 
 [Explicação da resolução das questões](https://youtu.be/KC-k_TAhoSc)a

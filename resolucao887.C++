@@ -8,6 +8,13 @@ public:
         vector<int> dp(k + 1, 0);
 
         int m = 0;
-        
+        while (dp[k] < n) {
+            m++;
+            // atualizar dp de trás pra frente para usar dp[m-1][*] ao calcular dp[m][*]
+            for (int j = k; j >= 1; --j) {
+                dp[j] = dp[j] + dp[j - 1] + 1;
+            }
+            // dp[0] permanece 0
+        }
     }
 };
