@@ -22,6 +22,7 @@ Serão realizados 2 exercícios, sendo 3 de nível Difícil e um de nível médi
 | [312. Burst Balloon](https://leetcode.com/problems/burst-balloons/description/) | Difícil | [Resolução](/resolucao312.C++) |
 |[887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/) | Difícil | [Resolução](resolucao887.C++) |
 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Difícil | [Resolução](resolucao188.C++) |
+|[474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/) | Médio | [Resolução](resolucao474.cpp) |
 
 ---
 ### 312. Burst Balloon
@@ -46,5 +47,11 @@ Tendo um prédio com n andares e k ovos, determinar o menor número de lançamen
 
 ![887. Super Egg Drop](/imagens/887accepted.png)
 ---
+### 474. Ones and Zeroes
+Dado um conjunto de strings formadas por 0 e 1, e dois limites m e n que representam quantos zeros e quantos uns podemos usar, precisamos encontrar o maior subconjunto possível que respeite esses limites.
+
+![474. Ones and Zeroes](/imagens/474accepted.png)
+
+
 ## Vídeo 
-[Explicação da resolução das questões](https://youtu.be/KC-k_TAhc)
+[Explicação da resolução das questões](https://www.youtube.com/watch?v=eQT-81K5B1Q)
