@@ -11,7 +11,7 @@
 | 222006605  | Bruno Cruz Garcia Rosa |
 
 ## Sobre 
-Repositório com resoluções de problemas de Progamação Dinâmica do [LeetCode](https://leetcode.com/).
+Repositório com resoluções de problemas de Programação Dinâmica do [LeetCode](https://leetcode.com/).
 
 ## Exercicios
 
