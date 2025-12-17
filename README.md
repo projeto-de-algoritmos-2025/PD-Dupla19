@@ -1,5 +1,5 @@
 
-# Exercícios sobre Progamação Dinâmica
+# Exercícios sobre Programação Dinâmica
 
 **Conteúdo da Disciplina**: PD<br>
 
