@@ -1,7 +1,7 @@
 
-# Exercícios sobre Greed
+# Exercícios sobre Progamação Dinâmica
 
-**Conteúdo da Disciplina**: Greed<br>
+**Conteúdo da Disciplina**: PD<br>
 
 ## Alunos
 
@@ -11,7 +11,7 @@
 | 222006605  | Bruno Cruz Garcia Rosa |
 
 ## Sobre 
-Repositório com resoluções de problemas de Greed do [LeetCode](https://leetcode.com/).
+Repositório com resoluções de problemas de Progamação Dinâmica do [LeetCode](https://leetcode.com/).
 
 ## Exercicios
 
